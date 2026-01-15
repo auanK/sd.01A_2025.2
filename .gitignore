@@ -3,3 +3,13 @@ target/
 .idea/
 *.iml
 .vscode/
+
+__pycache__/
+*.pyc
+estoque.xml
+config.ini
+venv/
+env/
+.env
+.vscode/
+.idea/
